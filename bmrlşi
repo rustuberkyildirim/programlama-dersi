@@ -1,0 +1,5 @@
+a=input("say my name")
+if a == "heisenberg":
+    print("you're goddamn right")
+
+
